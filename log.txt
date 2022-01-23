@@ -1,0 +1,8 @@
+
+> start
+> run-script-os
+
+
+> start:default
+> cd packages/cli/bin && ./n8n
+
